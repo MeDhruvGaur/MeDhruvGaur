@@ -5,7 +5,7 @@ A passionate Software Engineer || Full Stack Developer || MERN Stack Developer
 Email Me 👉 ✉️ **dhuvkmr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🔭 I’m currently working on Gurukul "A LMS Platform" <br>👯 I’m looking to collaborate on some backend projects.<br>🤝 How to reach me dhuvkmr@gmail.com <br>🌱 I’m currently learning Next.Js<br>💬 Ask me about<br>⚡ Fun fact : I think learning never stops in tech, only upgrades
+🔭 I’m currently working on Gurukul "A LMS Platform" <br>👯 I’m looking to collaborate on some backend projects.<br>🤝 How to reach me dhuvkmr@gmail.com <br>🌱 I’m currently learning Next.Js<br>⚡ Fun fact : I think learning never stops in tech, only upgrades
 
 
 ## 🌐 Socials:
