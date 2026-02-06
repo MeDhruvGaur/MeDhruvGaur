@@ -1,8 +1,12 @@
 
- # 💫 Hi 👋, I'm Dhruv kumar
+ # 💫 Hi 👋, I'm Dhruv Kumar
 A passionate Software Engineer || Full Stack Developer || MERN Stack Developer 
 
 Email Me 👉 ✉️ **dhuvkmr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MeDhruvGaur.MeDhruvGaur&left_text=Profile%20views" />
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on Gurukul "A LMS Platform" <br>👯 I’m looking to collaborate on some backend projects.<br>🤝 How to reach me dhuvkmr@gmail.com <br>🌱 I’m currently learning Next.Js<br>⚡ Fun fact : I think learning never stops in tech, only upgrades
