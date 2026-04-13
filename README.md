@@ -2,7 +2,7 @@
  # 💫 Hi 👋, I'm Dhruv Kumar
 A passionate Software Engineer || Full Stack Developer || MERN Stack Developer 
 
-Email Me 👉 ✉️ **dhuvkmr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **medhruvgaur23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MeDhruvGaur.MeDhruvGaur&left_text=Profile%20views" />
