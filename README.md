@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **medhruvgaur23@gmail.com** For Collaboration/Project or An
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Gurukul "A LMS Platform" <br>👯 I’m looking to collaborate on Full Stack Projects.<br>🤝 How to reach me dhuvkmr@gmail.com <br>🌱 I’m currently learning Next.Js<br>⚡ Fun fact : I think learning never stops in tech, only upgrades
+🔭 I’m currently working on Gurukul "A LMS Platform" <br>👯 I’m looking to collaborate on Full Stack Projects.<br>🤝 How to reach me medhruvgaur 23@gmail.com <br>🌱 I’m currently learning Next.Js<br>⚡ Fun fact : I think learning never stops in tech, only upgrades
 
 
 ## 🌐 Socials:
