@@ -1,6 +1,6 @@
 
  # 💫 Hi 👋, I'm Dhruv Kumar
-A passionate Software Engineer || Full Stack Developer || MERN Stack Developer 
+A Passionate Software Engineer || Full Stack Developer || MERN Stack Developer 
 
 Email Me 👉 ✉️ **medhruvgaur23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
